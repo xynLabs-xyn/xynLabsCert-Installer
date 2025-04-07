@@ -18,7 +18,7 @@
 This software installs the xynLabs self-signed certificate into your Trusted Root.  
 xyn created this certificate so that his current and future software can be signed by his custom certificate.  
 This prevents his software from being quarantined or removed by Windows Security/Defender  
-without having to spend a ton of cash and time to get a "ReCoGnIzEd PrOvIdEr" to vouch for him — which, by the way, anyone those with money and time could do if they wanted to infect someone's rig with malware.
+without having to spend a ton of cash and time to get a "ReCoGnIzEd PrOvIdEr" to vouch for him — which, by the way, anyone with money and time could do if they wanted to infect someone's rig with malware.
 
 ---
 
