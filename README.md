@@ -46,4 +46,4 @@ Any questions? Ask and ye shall receive.
 
 ## License
 
-[xTOL 1.0](https://github.com/xynLabs-xyn/xynNotes?tab=License-1-ov-file#readme)
+[xTOL 1.0](https://github.com/xynLabs-xyn/xynLabsCert-Installer?tab=License-1-ov-file#readme)
